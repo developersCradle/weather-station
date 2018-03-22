@@ -1,0 +1,276 @@
+﻿<style type="text/css">
+*{
+	margin:0;
+	padding:0;}
+header, article, aside, section {
+	display: block;
+	
+	}	
+nav {
+	width: inherit;
+	margin: 0.1em 0em;
+	display: block;
+	
+	padding-top: 0em;
+	padding-bottom: 0em;
+	
+
+	
+}
+
+nav ul {
+	overflow: auto;
+	border-bottom: 2px solid black;
+	margin: 1em 0;
+	padding-bottom: 1em;
+	
+}
+
+nav ul li {
+	float: left;
+	list-style: none;
+	font-size: 14px;
+}
+
+nav ul li a { 								/*linkkien staili*/
+	font-family: 'arial', arial, serif;
+	font-size:medium;
+	background-color: #4f81c5;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    padding-right: 2.21em;
+    padding-left: 2.21em;
+    }
+    a:hover, a:active {						/*hiiri päällä*/
+    background-color: #2458af;
+}
+    
+
+
+h1 {
+	font-family: 'arial black', arial, serif;
+	width: auto;
+	position:static;
+	clear: none;
+	float:none;
+	color:black;
+}
+img {
+	vertical-align: top;
+	border-top: none #F00;
+	border-right: none #F00;
+	border-bottom: none #F00;
+	border-left: none #F00;
+}
+h2 {
+	font-family: 'arial', arial, serif;
+	color: #000;
+	left: auto;
+	top: 0px;
+	right: auto;
+	bottom: 0px;
+	border-top: none #FFF;
+	border-right: none #FFF;
+	border-bottom: none #FFF;
+	border-left: none #FFF;
+}
+body {
+	padding-top: 2em;
+	background-color: #fff;
+	background-image:url('centraali2.gif');
+	background-repeat: repeat-x;
+	background-attachment: scroll;
+	background-position: center top;
+}
+li {
+	color: #000;
+}
+p {
+	color: #000;
+}
+#wrap {
+	border-radius: 5px;
+	clear: both;
+	width: 1025px; ;
+	border-top: #000;
+	border-right: #000;
+	border-bottom: #000;
+	border-left: #000;
+	margin: 0px auto;
+	border: thin none #FF0000;
+}
+	div#ylapyoristys{
+	border-radius: 0em;
+	-moz-border-radius: 0em;
+	-webkit-border-radius: 0m;
+	padding: 0em;
+	background-color: white;
+}
+div#ylapyoristys blockquote {
+	opacity:1;
+}
+footer {
+	color: #FFF;
+}
+#footer {
+	width: 1025px;
+	margin: 0px auto;
+	color: #FFF;
+	border-right-color: #FFF;
+	border-bottom-color: #FFF;
+	border-left-color: #FFF;
+	clear: both;
+	padding: 0em;
+	padding-left: 0em;
+	padding-right: 2em;
+	padding-top: 1em;
+
+}
+div#oikea {
+	border: thin outset #000;
+	float: right;
+	width: 40%;
+	overflow: auto;
+	border-radius: 0em;
+	-moz-border-radius: 0em;
+	-webkit-border-radius: 0em;
+	padding: 0em;
+	padding-left: 2em;
+	padding-right: 2em;
+	padding-top: 1em;
+	color: #000;
+	margin-top: 0em;
+	box-shadow: 5px 5px 5px #888888;
+	background-color: #fff;
+}
+div#vasen {
+	border: thin outset #000;
+	float: left;
+	width: 40%;
+	overflow: auto;
+	border-radius: 0em;
+	-moz-border-radius: 0em;
+	-webkit-border-radius: 0em;
+	padding: 0em;
+	padding-left: 2em;
+	padding-right: 2em;
+	padding-top: 1em;
+	color: #000;
+	margin-top: 0em;
+	box-shadow: 5px 5px 5px #888888;
+	background-color: #fff;
+}
+section#kokosivu {
+	border: thin outset #000;
+	float: left;
+	width: 98%;
+	overflow: auto;
+	border-radius: 0em;
+	-moz-border-radius: 0em;
+	-webkit-border-radius: 0em;
+	padding: 0em;
+	padding-left: 2em;
+	padding-right: 2em;
+	padding-top: 1em;
+	color: #000;
+	margin-top: 0em;
+	box-shadow: 5px 5px 5px #888888;
+	background-color: #fff;
+}
+div#oikeataulu {
+	border: thin outset #000;
+	float: right;
+	width: 45%;
+	overflow: auto;
+	border-radius: 0em;
+	-moz-border-radius: 0em;
+	-webkit-border-radius: 0em;
+	padding: 0em;
+	padding-left: 2em;
+	color: #000;
+	margin-top: 0em;
+	box-shadow: 5px 5px 5px #888888;
+	background-color: #fff;
+}
+div#vasentaulu {
+	border: thin outset #000;
+	float: left;
+	width: 45%;
+	overflow: auto;
+	border-radius: 0em;
+	-moz-border-radius: 0em;
+	-webkit-border-radius: 0em;
+	padding: 0em;
+	padding-left: 2em;
+	color: #000;
+	margin-top: 0em;
+	box-shadow: 5px 5px 5px #888888;
+	background-color: #fff;
+}
+h3 {
+	font-family: 'Raleway', arial, serif;
+	color: #000;
+}
+blockquote
+
+h4 {
+	text-decoration: underline;
+}
+h6 {
+	color: #FFF;
+	font-size: 16px;
+}
+.auto-style1 {
+	text-align: center;
+	margin-bottom: 0em;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    background-color: #4f81c5;
+    color: white;
+}
+.compass {
+	position: relative;
+	width: 260px;
+	height: 260px;
+	margin: 20px auto;
+	padding: 20px;
+	overflow: hidden;
+}
+
+.compass .disc {
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	z-index: 200;
+	background: url('http://dev.rvltn.eu/compass/compass.svg');
+	width: 260px;
+	height: 260px;
+	background-size: 100%;
+}
+
+.compass .arrow {
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	z-index: 1000;
+	background: url('http://dev.rvltn.eu/compass/arrow.svg');
+	width: 260px;
+	height: 260px;
+	background-size: 100%;
+}
+</style>
