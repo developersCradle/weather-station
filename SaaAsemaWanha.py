@@ -51,7 +51,7 @@ while True:
 		kaste = kastePiste(lampotila,kosteus)
 		print kaste
 		
-		db = mdb.connect("195.148.67.136", "asema", "******", "*****db")
+		db = mdb.connect("***.***.***.***", "asema", "******", "*****db")
 		curs = db.cursor()
 
 		try:
