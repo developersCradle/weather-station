@@ -3,3 +3,5 @@ Tämä toteutettiin python koodin avulla ja datan näyttäminen PHP-koodilla.
 
 Ryhmä projekti oli osana Client Server Programming kurssia.
 [Linkki](http://secret.cop.fi/asema/anturit.php) sivuille
+
+![Image of program](kuva.PNG)
