@@ -1,3 +1,8 @@
+# Task Eng 
+
+- Todo
+
+# Task Fin
 
 Säädata tuli RS-232 pitkin. Tehtävänä oli muun muassa parseroida data ja tallentaa tietokantaan.
 Tämä toteutettiin python koodin avulla ja datan näyttäminen PHP-koodilla.
@@ -9,9 +14,9 @@ Ryhmä projekti oli osana Client Server Programming kurssia.
 
 ## Kuvia projektista
 
-![Sää data kuva anturit](kuva.PNG)
+<img id="anturit" src="kuva.PNG" alt="alt text" width="700"/>
 
-![Sää data kuva graafi](kuva2.PNG)
+<img id="graafi" src="kuva2.PNG" alt="alt text" width="700"/>
 
 ### Mitä opin
 
