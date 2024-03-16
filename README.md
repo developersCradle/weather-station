@@ -14,9 +14,9 @@ Ryhmä projekti oli osana Client Server Programming kurssia.
 
 ## Kuvia projektista
 
-<img id="anturit" src="kuva.PNG" alt="alt text" width="700"/>
+<img id="kuvia-projektista?trk=public_profile_project-button" src="kuva.PNG" alt="alt text" width="700"/>
 
-<img id="graafi" src="kuva2.PNG" alt="alt text" width="700"/>
+<img id="graafi?trk=public_profile_project-button" src="kuva2.PNG" alt="alt text" width="700"/>
 
 ### Mitä opin
 
