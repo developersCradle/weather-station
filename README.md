@@ -1,25 +1,30 @@
-# Task Eng 
+# Task Eng.
 
-- Todo
+The weather data came via `RS-232`. The task included, among other things, **parsing** the data and **saving** it to a **database**.
+This was implemented using **Python** code, and the data was displayed using **PHP** code.
+The weather history is also available in a graphical chart. For this, **JavaScript** and [C3](https://c3js.org/) were used.
+All of this ran on a **Raspberry Pi platform**.
 
-# Task Fin
+The group project was part of the Client Server Programming course.
+[Link to site](http://secret.cop.fi/asema/anturit.php).
 
-Säädata tuli RS-232 pitkin. Tehtävänä oli muun muassa parseroida data ja tallentaa tietokantaan.
-Tämä toteutettiin python koodin avulla ja datan näyttäminen PHP-koodilla.
-Säähistoria löytyy myös graafisesta taulukosta. Tähän käytettiin Javascriptiä ja [c3](https://c3js.org/):sta. Tämä kaikki tomi Raspberry Pi alustalla
+# Task Fin.
 
+Säädata tuli `RS-232` pitkin. Tehtävänä oli muun muassa **parseroida** data ja **tallentaa** **tietokantaan**.
+Tämä toteutettiin **Python** koodin avulla ja datan näyttäminen **PHP**-koodilla.
+Säähistoria löytyy myös graafisesta taulukosta. Tähän käytettiin **Javascriptiä** ja [C3](https://c3js.org/):sta. Tämä kaikki tomii **Raspberry Pi** alustalla.
 
 Ryhmä projekti oli osana Client Server Programming kurssia.
 [Linkki](http://secret.cop.fi/asema/anturit.php) sivuille.
 
-## Kuvia projektista
+## Pictures from project.
 
-<img id="kuvia-projektista?trk=public_profile_project-button" src="kuva.PNG" alt="alt text" width="700"/>
+<img id="kuvia-projektista?trk=public_profile_project-button" src="kuva.PNG" alt="picture from project" width="700"/>
 
-<img id="graafi?trk=public_profile_project-button" src="kuva2.PNG" alt="alt text" width="700"/>
+<img id="graafi?trk=public_profile_project-button" src="kuva2.PNG" alt="picture from project" width="700"/>
 
-### Mitä opin
+## What did I learn.
 
-- Palvelimelle jaettu melkein reaaliaikainen sääanturi datapaketti.
-- Käytännössä käyttää paremmin PHP, JS, C3, Python ja sekä deployjata koodit serverille. 
-- Työskennellä API:en kanssa.
+- Implementing an almost real-time data package shared into the server.
+- Practical experience, how to use `PHP`, `JS` `C3`, `Python` and to deploy these to server.
+- Working with `API`s.
